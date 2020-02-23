@@ -46,10 +46,3 @@ public class Main {
         System.out.println("A");
     }
 }
-//https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&origins=Greenwich,+Greater+London,+UK|Stockholm%20County,%20Sweden|Dlouh%C3%A1%20609/2,%20110%2000%20Praha-Star%C3%A9%20M%C4%9Bsto,%20%C4%8Cesk%C3%A1%20republika&destinations=Greenwich,+Greater+London,+UK|Stockholm%20County,%20Sweden|Dlouh%C3%A1%20609/2,%20110%2000%20Praha-Star%C3%A9%20M%C4%9Bsto,%20%C4%8Cesk%C3%A1%20republika&key=AIzaSyBHCKPzyd6Wa4E9hT_FwSQOKBsZ-9qP8Go
-//ChIJK3Nn-8YoO0EROEmqIs4WR5o
-// ул, б-р Победы, 23Б, Воронеж, Воронежская обл., Россия, 394053|ул. Кольцовская, 35, Воронеж, Воронежская обл., Россия, 394030|Университетская пл., 1, Воронеж, Воронежская обл., Россия, 394036|Комиссаржевской ул., 4, Воронеж, Воронежская обл., Россия, 394036|ул. 20-летия Октября, 119, Воронеж, Воронежская обл., Россия, 394006
-//ChIJT5iyMuUuO0ERZF768YDJYzk ул. Кольцовская, 35, Воронеж, Воронежская обл., Россия, 394030
-//ChIJ_9rYsFkuO0ERWmCQtgVUAE4 Университетская пл., 1, Воронеж, Воронежская обл., Россия, 394036
-//ChIJ7_AE7v0uO0ERBgkcGERgVR0 Комиссаржевской ул., 4, Воронеж, Воронежская обл., Россия, 394036
-//ChIJMQVew_QuO0ERxOrErC6z4MA ул. 20-летия Октября, 119, Воронеж, Воронежская обл., Россия, 394006
